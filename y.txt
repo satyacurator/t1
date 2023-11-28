@@ -1,5 +1,6 @@
 HELLO
 <<<<<<< HEAD
+<<<<<<< HEAD
 teli
 fakfjsaso
 lfkdasfldajkja
@@ -15,3 +16,6 @@ hiiii
 hello
 how are you ?
 >>>>>>> 1273e45 (first edited)
+=======
+hiiii
+>>>>>>> 5e87cc6 (second edited)

@@ -4,6 +4,9 @@ fakfjsaso
 lfkdasfldajkja
 fjaslfaflj
 fdhafkjdasfasddf
+<<<<<<< HEAD
 hello
 how are you ?
+=======
+>>>>>>> f7d7200 (f1 commit statrt here)
 hiiii
